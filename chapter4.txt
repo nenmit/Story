@@ -1,1 +1,2 @@
 This is chapter 4 bla bla bla.
+I made some changes.
